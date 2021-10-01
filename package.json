@@ -11,7 +11,10 @@
     "url": "git+https://github.com/dtimskr/discord-markdown.git"
   },
   "keywords": [
-    "discordjs"
+    "discordjs",
+    "discord bot",
+    "discord utils",
+    "discord markdown"
   ],
   "author": "Olaf 'dtim' Golubski",
   "license": "MIT",
