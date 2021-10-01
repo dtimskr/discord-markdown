@@ -1,6 +1,6 @@
 {
   "name": "@dtim/discord-markdown",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small library what makes using Discord Markdown easily",
   "main": "app.js",
   "scripts": {

@@ -4,7 +4,7 @@
 `npm install @dtim/discord-markdown`
 
 ## Usage
-`
+```javascript
 const dm = require('@dtim/discord-markdown');
 [...]
 
@@ -18,4 +18,4 @@ message.channel.send(dm.underlineBoldItalics('text'));
 message.channel.send(dm.strikethrough('text'));
 message.channel.send(dm.code('text'));
 message.channel.send(dm.multiCode('text'));
-`
+```
