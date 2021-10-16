@@ -1,7 +1,7 @@
 # Discord Markdown
 
 ## Instalation
-`npm install @dtim/discord-markdown`
+[![NPM](https://nodei.co/npm/@dtim/discord-markdown.png?mini=true)](https://npmjs.org/package/@dtim/discord-markdown)
 
 ## Usage
 ```javascript
