@@ -1,6 +1,6 @@
 {
   "name": "@dtim/discord-markdown",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A small library what makes using Discord Markdown easily",
   "main": "app.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "discord utils",
     "discord markdown"
   ],
-  "author": "Olaf 'dtim' Golubski",
+  "author": "dtim",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dtimskr/discord-markdown/issues"
